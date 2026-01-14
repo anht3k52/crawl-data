@@ -1,5 +1,5 @@
 # crawl-data
-Quy trình cào Website Tin tức (CafeF, Investing, Reuters...)
+1.  Quy trình cào Website Tin tức (CafeF, Investing, Reuters...)
 Đây là luồng dữ liệu chính thống, ổn định nhất.
 
 Bước 1: Khởi tạo (Initialization): Thiết lập BrowserConfig với Proxy dân cư theo quốc gia tương ứng với nguồn tin (Ví dụ: cào tin Mỹ thì dùng IP Mỹ).
